@@ -8,7 +8,8 @@
 
 I'm a beginner fullstack developer hoping to one day become a professional and a great dev like my friends! Programming since 2020 and what I may lack in experience I compensate with knowledge and passion!
 
-
+<div align="center">
+  
 ### 🍏Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
