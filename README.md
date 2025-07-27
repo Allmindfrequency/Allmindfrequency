@@ -29,3 +29,9 @@ I'm a beginner fullstack developer hoping to one day become a professional and a
 <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+#
+<!--
+<details>
+ <summary><h3>🍏My Journey</h3></summary>
+   My coding journey began in 2020 when I took my first leap into Python to help a friend’s game project. It was quarantine and we didn't have much to do, so we both thought: "why not?". Since then, I’ve been honing my craft through small-scale projects—experimenting, failing, and learning relentlessly. Now, I’m diving into advanced concepts, collaborative development, and complex systems to transform from a hobbyist into a professional-level developer so I can stand side by side to the giants I admire so much.
