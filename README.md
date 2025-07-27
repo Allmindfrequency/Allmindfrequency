@@ -30,6 +30,10 @@ I'm a beginner fullstack developer hoping to one day become a professional and a
 
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
+### 🍏Currenly
+Studying: PHP & System Design
+Building: -
+
 #
 <!--
 <details>
