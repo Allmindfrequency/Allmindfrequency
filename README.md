@@ -4,8 +4,8 @@
 
 # 🍏AllmindFrequency
 
-**`Software`**
-**`Brazilian`**
+**`📖Software📖`**
+**`📖Brazilian📖`**
 
 I'm a beginner fullstack developer hoping to one day become a professional and a great dev like my friends! Programming since 2020 and what I may lack in experience I compensate with knowledge and passion!
 
