@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://github.com/Atago66/Atago66/blob/main/assets/Screenshot%202024-06-13%20224017.png"/>
+
 # 🍏AllmindFrequency
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
