@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Atago66/Atago66/blob/main/assets/Screenshot%202024-06-13%20224017.png"/>
+<img src="https://github.com/Allmindfrequency/Allmindfrequency/blob/main/imagem_2025-07-27_180600166.png"/>
 
 # 🍏AllmindFrequency
 
