@@ -32,8 +32,10 @@ I'm a beginner fullstack developer hoping to one day become a professional and a
 
 ### 🍏Currenly
 Studying: PHP & System Design
+<br />
 Building: -
 
+<br />
 #
 <!--
 <details>
